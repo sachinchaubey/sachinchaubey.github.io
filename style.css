@@ -172,6 +172,7 @@ h3{
     text-align: center;
     font-weight: 600;
     margin: 10px 0;
+    
 }
 
 .course-col:hover{
@@ -287,9 +288,10 @@ h3{
     text-align: left;
     background: #fff3f3;
     padding: 20px;
-    cursor: pointer;
-    display: flex;      /* when usinge flex property ... why h3 goes  horizental from p. (balki  h3 , p ke niche(vartikal) ho and h3 and p both image horizantal ho)  */
+    cursor: pointer; 
+    display: flex; /* when usinge flex property ... why h3 goes  horizental from p. (balki  h3 , p ke niche(vartikal) ho and h3 and p both image horizantal ho)  */
 }
+
 
 .testimonials-col img{
     height: 40px;
